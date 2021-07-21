@@ -10,7 +10,7 @@ import one.digitalinnovation.personapi.enums.PhoneType;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-class PhoneDTO {
+public class PhoneDTO {
 
     private Long id;
     private PhoneType type;
