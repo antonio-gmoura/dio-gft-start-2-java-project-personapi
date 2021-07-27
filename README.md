@@ -6,10 +6,12 @@
 
 #### Instrutor: Rodrigo Peleias
 
-#### Repositório original: https://github.com/rpeleias/personapi_digital_innovation_one
+#### Repositório Live: https://github.com/rpeleias/personapi_dio_live_coding.git
+
+#### Repositório Final: https://github.com/rpeleias/personapi_digital_innovation_one
 
 ```
-Este README é uma copia do README do repositório original
+Este README é uma copia do README do repositório da live
 ```
 
 Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
